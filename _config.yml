@@ -1,4 +1,8 @@
 theme: jekyll-theme-minimal
 title: Nichole Breeland
 logo: NicholeBreeland.github.io/headshot.jpeg
-description: under construction
+description: Social Cognition Researcher
+email:
+  name: Email
+  icon: icon-mail
+  prepend: 'mailto:n.breeland@auckland.ac.nz'
