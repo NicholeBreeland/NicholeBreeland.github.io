@@ -2,3 +2,6 @@ theme: jekyll-theme-minimal
 title: Nichole Breeland
 logo: NicholeBreeland.github.io/headshot.jpeg
 description: Social Cognition Researcher
+footer-links:
+  github: barryclark
+  twitter: baznyc
