@@ -5,4 +5,4 @@ Nichole's research utilises diverse experimental methods (i.e., thematic analysi
 
 
 
-<div align="center">[![Alt text](/icons/Twitter_Social_Icon_Circle_Color.png =250x)](http://twitter.com/NicholeBreeland)</div>
+<div align="center">[![Alt text](NicholeBreeland.github.io/Twitter_Social_Icon_Circle_Color.png =250x)](http://twitter.com/NicholeBreeland)</div>
