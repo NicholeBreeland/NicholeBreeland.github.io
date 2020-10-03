@@ -1,1 +1,1 @@
-# Nichole Breeland | Social Cognition Researcher
+## Nichole Breeland 
