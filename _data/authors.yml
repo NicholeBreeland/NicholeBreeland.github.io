@@ -1,7 +1,7 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
-  author:             
+  nic:             
   name:              <Nichole> <Breeland>
   email:             <n.breeland@auckland.ac.nz>
 
@@ -9,9 +9,9 @@
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <NicholeBreeland>
-    github:          <NicholeBreeland>
-    email:           <n.breeland@auckland.ac.nz>
+    twitter:         <username>
+    github:          <username>
+    email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
