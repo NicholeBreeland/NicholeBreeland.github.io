@@ -15,6 +15,4 @@ Nichole's research utilises diverse experimental methods (i.e., thematic analysi
   <a href="mailto:n.breeland@auckland.ac.nz">Contact</a>
 </p>
 
-<a href="https://twitter.com/NicholeBreeland?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @NicholeBreeland</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
