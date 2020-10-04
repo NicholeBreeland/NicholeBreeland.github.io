@@ -1,6 +1,5 @@
 ---
-layout: post
-title: Presentations
+layout: default
 ---
 
 test
