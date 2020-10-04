@@ -3,10 +3,3 @@ title: Nichole Breeland
 logo: NicholeBreeland.github.io/headshot.jpeg
 description: Social Cognition Researcher
 
-
- social_links:
-    twitter: NicholeBreeland
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
-
