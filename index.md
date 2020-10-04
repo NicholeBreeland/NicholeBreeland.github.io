@@ -3,6 +3,11 @@ Nichole Breeland is a PhD candidate in the School of Psychology, and a Project L
 
 Nichole's research utilises diverse experimental methods (i.e., thematic analysis, eye-tracking, reaction time, and behavioural observation) and advanced statistical modelling (i.e., structural equation modelling, linear mixed models, and Bayesian inference) to investigate social-cognitive development across the first two years of life. Specifically, she examines how bio-ecological systems impact children's mental representations of shared-goals and ability to attain shared-goals (i.e., cooperate) with others. Her research also focuses on constructing a "cooperative phenotype" which identifies the relationships between children's social-cognitive abilities (e.g., intention understanding, attention capacity, and person perception) and their cooperative behaviours.
 
+<br>
+<br>
+<br>
+<br>
+
 <p align="center">
   <a href="http://www.github.com/NicholeBreeland">Github</a> |
   <a href="http://www.twitter.com/NicholeBreeland">Twitter</a> |
