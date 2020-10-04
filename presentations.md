@@ -13,6 +13,6 @@ layout: default
 McRae, C., **Breeland, N.**, Meinhardt, I., Graham, B., & Henderson, A. (October 2019). *Infants’ joint attention  abilities foster social connections with cooperative partners but may interfere with cooperative ability*. Poster presented at the meeting of the Cognitive Developmental Society, Louisville, KY. [https://osf.io/wnqsc/](https://osf.io/wnqsc/)
 <br>
 <br>
-**Breeland, N.**, Henderson, A., Kethers, P., Love, J., & Love, D. (July 2018). *Disposition by Design: the Monoamine Oxidase A (MAOA) Gene and Infant Temperament*. Poster presented at the meeting of the International Society for the Study of Behavioural Development meeting, Gold Coast, Australia.[https://osf.io/fvh7b/](https://osf.io/fvh7b/)
+**Breeland, N.**, Henderson, A., Kethers, P., Love, J., & Love, D. (July 2018). *Disposition by Design: the Monoamine Oxidase A (MAOA) Gene and Infant Temperament*. Poster presented at the meeting of the International Society for the Study of Behavioural Development meeting, Gold Coast, Australia. [https://osf.io/fvh7b/](https://osf.io/fvh7b/)
 
 [back](./)
