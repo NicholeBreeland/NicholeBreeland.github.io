@@ -9,7 +9,7 @@ Nichole's research utilises diverse experimental methods (i.e., thematic analysi
 <br>
 
 <p align="center">
-  <a href="http://www.github.com/NicholeBreeland">Github</a> |
+  <a href="http://www.github.com/NicholeBreeland">Github Repo</a> |
   <a href="http://www.twitter.com/NicholeBreeland">Twitter</a> |
   <a href="https://www.linkedin.com/in/nichole-breeland-576002b2/">LinkedIn</a> |
   <a href="mailto:n.breeland@auckland.ac.nz">Contact</a>
