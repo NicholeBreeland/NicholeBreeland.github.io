@@ -17,5 +17,5 @@ layout: default
 *International Student Representative, 2018 to 2020*
 <br>
 <br>
-**Pacifc Lutheran University Psi Chi International Honour Society** <br>
-*Chapter Vice President, 2016 to 2017*
+**Psi Chi International Honour Society** <br>
+*Pacifc Lutheran University Chapter Vice President, 2016 to 2017*
