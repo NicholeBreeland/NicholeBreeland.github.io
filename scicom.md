@@ -3,8 +3,7 @@ layout: default
 ---
 
 ## Science Communication 
-<div style="width:100%;height:0;padding-bottom:20%;position:relative;"><iframe src="https://giphy.com/embed/YsC5SHvGX6PIue7IH4" width="70%" height="70%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p>
-<br>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/YsC5SHvGX6PIue7IH4" width="70%" height="70%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p>
 **Conference Planning Committee** - Australasian Human Development Association <br>
 *March 2020 to October 2020*
 <br>
