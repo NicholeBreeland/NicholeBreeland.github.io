@@ -3,9 +3,7 @@ layout: default
 ---
 
 ## Science Communication 
-
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/YsC5SHvGX6PIue7IH4" width="70%" height="70%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/YsC5SHvGX6PIue7IH4"></a></p>
-<br>
 <br>
 **Conference Planning Committee** - Australasian Human Development Association <br>
 *March 2020 to October 2020*
@@ -36,7 +34,7 @@ layout: default
 <br>
 <br>
 **Guest Speaker** - New Zealand Brain Bee "Meet-a-Scientist" Session <br>
-*July 20188
+*July 2018*
 <br>
 <br>
 **Work Experience Host** - Visiting Secondary School Students <br>
