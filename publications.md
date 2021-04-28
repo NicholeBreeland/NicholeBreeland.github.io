@@ -4,8 +4,8 @@ layout: default
 
 ## Manuscripts 
 
-**Breeland, N.**, Henderson, A., & Graham, B. (November 2020). *Maternal Values and Personality Enhance Infant Cooperation with an Adult*. Manuscript in preparation. <br><br>
-**Breeland, N.** & Henderson, A. (November 2020). *First impressions matter: Warm up play impacts toddlers’ cooperative ability with a same-aged peer*. Manuscript in preparation. <br><br>
-**Breeland, N.** & Henderson, A. (January 2021). *The cooperative phenotype in the second year of life*. Manuscript in preparation.
+**Breeland, N.**, Henderson, A., & Graham, B. (Under Review). *Maternal Values and Personality Enhance Infant Cooperation with an Adult*. <br><br>
+**Breeland, N.**, & Henderson, A. (Under Review). *First Impressions Matter: Warm-up Play Impacts Children’s Cooperative Ability with an Unfamiliar Same-aged Peer.* https://doi.org/10.31234/osf.io/rge3x <br><br>
+**Breeland, N.** & Henderson, A. (January 2021). *The Cooperative Phenotype in the Second Year of Life*. Manuscript in preparation.
 
 [back](./)
