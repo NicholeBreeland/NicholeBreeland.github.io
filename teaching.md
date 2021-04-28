@@ -6,6 +6,10 @@ layout: default
 #### [School of Psychology, The University of Auckland](https://www.psych.auckland.ac.nz/en/about/our-courses/stage-3-courses.html)
 <br>
 <br>
+**Changes Across the Lifespan (PSYCH 323)** <br>
+Content Contributor - March 2021 <br>
+<br>
+<br>
 **Capstone: Communicating Psychology (PSYCH 399)** <br>
 Head Graduate Teaching Assistant - July 2020 to November 2020 <br>
 Course Design Team - February 2020 to November 2020
